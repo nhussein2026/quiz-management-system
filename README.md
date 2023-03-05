@@ -6,6 +6,7 @@ quize-management system were is a desktop application designed using netbeans in
 In this project I try to use the concept objected oriented programming of java.
 
 **Getting Started**
+
 1. get the clone.
 
 2.create sql table like these tables i order to make the code run successfully.
