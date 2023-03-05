@@ -8,4 +8,6 @@ In this project I try to use the concept objected oriented programming of java.
 **Getting Started**
 
 1. get the clone.
-2. create sql table like these tables in order to make the code run successfully.
+2. run the program in net beans.
+3. create sql schema ![Screenshot (46)](https://user-images.githubusercontent.com/110671737/222984761-3efccb81-5353-430a-92be-2d9b06e6700b.png)
+
