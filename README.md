@@ -1,5 +1,5 @@
 
-# quiz-management-system
+# Quiz-Management-System
 quize-management system were is a desktop application designed using netbeans interface and java progrmming language.
 In this project I try to use the concept objected oriented programming of java.
 
