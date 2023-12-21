@@ -1,7 +1,12 @@
 
 # Quiz-Management-System
-quize-management system were is a desktop application designed using netbeans interface and java progrmming language.
+
+- The Quiz Management System is a Java-based application designed for creating, managing, and taking quizzes online. Developed as part of the Object-Oriented Programming course at Nisantasi University, this project serves as a showcase for implementing fundamental OOP principles like inheritance, polymorphism, abstraction, and encapsulation.
+
+  
+- quize-management system were is a desktop application designed using netbeans interface and java progrmming language.
 In this project I try to use the concept objected oriented programming of java.
+
 
 
 ![Screenshot 2023-03-05 132048](https://user-images.githubusercontent.com/110671737/222954661-3a9e04d0-4748-49de-942e-96b36181152d.png)
